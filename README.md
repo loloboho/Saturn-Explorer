@@ -1,7 +1,8 @@
 # Saturn-Explorer
 FUSION-POWERED DEEP SPACE EXPLORATION VESSEL
 
-Diamond hard science fiction 2080 technology ship design
+Diamond hard science fiction
+2080 technology
 
-Designed and drawn by Robert Brownscombe
+Designed and drafted by Robert Brownscombe
 Assisted by ClaudeAI
