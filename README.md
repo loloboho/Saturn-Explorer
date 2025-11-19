@@ -10,4 +10,4 @@ This is my first application of AI. It has been a collaboration of AI celestial 
 
 Charles Shefield and Arthur C. Clark have been an obvious influence. The Saturn-Explorer looks a lot like the Discovery One in Kubrick's "2001: A Space Odyssey" for good reason. Arthur C. Clark and Kubrick had it right. The Landers are similar to the Apollo Lunar Module because it works. The aesthetics of the ship are from functional design. The swept wings of the radiators shift the CG aft to maintain stability, not because they look cool.
 
-Note: The wheels supporting the ring, aeroibc digestion in the waste tanks, crew moving from rotating ring to non-rotating shelter, air scoops for ventilation, pallets for cargo, 
+Note: The wheels supporting the ring, aeroibc digestion in the waste tanks, crew moving from rotating ring to non-rotating shelter from the ladder, air scoops for ventilation, pallets for cargo, these are some of my favorite ideas.
