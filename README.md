@@ -53,14 +53,14 @@ Some ideas I'm particularly proud of:
 - **Propulsion:** D-T Fusion drive (15,000s Isp)
 - **Delta-V:** 91.8 km/s total capability
 - **Mission:** 5.4-6.4 years to Enceladus
-- **Habitat:** Rotating ring with variable artificial gravity (0.1-0.6g)
+- **Habitat:** Rotating ring with variable artificial gravity (0.1-0.5g)
 - **Landers:** 2× reusable surface exploration vehicles
 
 ---
 
 ## About the Designer
 
-Technical designer (no degree) with 60+ years hands-on experience:
+Technical designer (engineering, tool technology, no degree) with 40+ years hands-on experience:
 
 - Boeing aircraft avionics (~2 years)
 - de Havilland business jet Illustrated Parts Catalogs (~2 years)
@@ -93,7 +93,7 @@ This repository contains complete technical documentation:
 - **AutoCAD R14** - Because it works and I know it
 - **Python** - For calculations and analysis
 - **Claude AI** - For mathematical analysis, documentation, and collaboration
-- **60 years of experience** - "What breaks and how do I fix it?" thinking
+- **40 years of experience** - "What breaks and how do I fix it?" thinking
 
 ---
 
