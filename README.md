@@ -84,7 +84,6 @@ This repository contains complete technical documentation:
 - **SATURN_EXPLORER_DELTA-V_BUDGET_Rev_1.2.txt** - Mission performance analysis
 - **SATURN_EXPLORER_CG_SUMMARY_Rev_1.2.txt** - Center of gravity calculations
 - **SATURN_LANDER_TECHNICAL_DESIGN_SUMMARY_Rev_13.1.txt** - Surface exploration vehicle specs
-- **FUSION_SPACECRAFT_PUBLIC_SUMMARY.txt** - General overview for non-technical readers
 
 ---
 
