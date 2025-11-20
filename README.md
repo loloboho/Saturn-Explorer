@@ -10,7 +10,7 @@ Assisted by Claude AI
 
 ## About This Project
 
-This design represents an honest attempt at realistic spacecraft engineering for the outer solar system (2080). All feedback welcome.
+This design represents an honest attempt at realistic spacecraft engineering for the outer solar system. All feedback welcome.
 
 This is my first application of AI. It has been a collaboration of AI celestial mechanics, delta-V, and CG calculations with my design in conceptual 3-D space using AutoCAD traditional three-view drafting.
 
