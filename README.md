@@ -20,7 +20,7 @@ I am responsible for the systems concepts; AI assisted with calculations and doc
 
 ## Influences
 
-Charles Sheffield and Arthur C. Clarke have been an obvious influence. The Saturn Explorer looks a lot like the Discovery One in Kubrick's "2001: A Space Odyssey" for good reason. Arthur C. Clarke and Kubrick had it about right.
+Charles Sheffield and Arthur C. Clarke have been an obvious influence. The Saturn Explorer looks a lot like the Discovery One in Kubrick's "2001: A Space Odyssey" for good reason, Clarke and Kubrick had it about right.
 
 The Lander is similar to the Apollo Lunar Module because it works. The aesthetics of the ship are from functional design. The swept wings of the radiators shift the CG aft to maintain stability, not because they look cool.
 
@@ -28,7 +28,7 @@ The Lander is similar to the Apollo Lunar Module because it works. The aesthetic
 
 ## Design Philosophy
 
-**"Proven over clever. Simple over complex. Maintainable over optimal."**
+**"Keep it simple. Proven over clever. Maintainable over optimal."**
 
 Every system was chosen for reliability and maintainability, not theoretical perfection. If I can't fix it in orbit, it doesn't belong on the ship.
 
@@ -72,7 +72,7 @@ Technical designer (engineering, tool technology, no degree) with 40+ years hand
 - Built 1933 Chevy hot rod (Olds Rocket 88 V8)
 - Assembled 1952 BSA B33 500 single from crate
 
-**Previous life:** Forest inventory in Chile, climbed The Grand Teton, flew ICP Savanna ultralight, barista at New World Coffee House (Eugene, 1968), repaired and operated 1932 John Deere tractor, singing cowboy at Jackson Hole dude ranch.
+**Previous life:** Barista at New World Coffee House (Eugene, 1968), Forest inventory in Chile, climbed The Grand Teton, repaired and operated 1932 John Deere tractor, flew ICP Savanna ultralight, singing cowboy at Jackson Hole dude ranch.
 
 ---
 
@@ -92,7 +92,7 @@ This repository contains complete technical documentation:
 - **AutoCAD R14** - Because it works and I know it
 - **Python** - For calculations and analysis
 - **Claude AI** - For mathematical analysis, documentation, and collaboration
-- **40 years of experience** - "What breaks and how do I fix it?" thinking
+- **40 years of experience** - I started at my dad's workbench.
 
 ---
 
@@ -121,6 +121,7 @@ This repository contains complete technical documentation:
 - Integrated biological systems (hydroponics + aerobic waste processing)
 - Fresh food production (160 m² growing area)
 - Variable artificial gravity for crew health
+- Spacious, comfortable quarters 
 
 **Propulsion:**
 - D-T fusion drive with magnetic nozzles
