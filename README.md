@@ -22,7 +22,7 @@ I am responsible for the systems concepts; AI assisted with calculations and doc
 
 Charles Sheffield and Arthur C. Clarke have been an obvious influence. The Saturn Explorer looks a lot like the Discovery One in Kubrick's "2001: A Space Odyssey" for good reason. Arthur C. Clarke and Kubrick had it about right.
 
-The Landers are similar to the Apollo Lunar Module because it works. The aesthetics of the ship are from functional design. The swept wings of the radiators shift the CG aft to maintain stability, not because they look cool.
+The Lander is similar to the Apollo Lunar Module because it works. The aesthetics of the ship are from functional design. The swept wings of the radiators shift the CG aft to maintain stability, not because they look cool.
 
 ---
 
@@ -30,7 +30,7 @@ The Landers are similar to the Apollo Lunar Module because it works. The aesthet
 
 **"Proven over clever. Simple over complex. Maintainable over optimal."**
 
-Every system was chosen for reliability and maintainability, not theoretical perfection. If I can't explain how to fix it in orbit, it doesn't belong on the ship.
+Every system was chosen for reliability and maintainability, not theoretical perfection. If I can't fix it in orbit, it doesn't belong on the ship.
 
 ---
 
