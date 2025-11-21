@@ -89,7 +89,7 @@ This repository contains complete technical documentation:
 
 ## Tools Used
 
-- **AutoCAD R14** - Because it works and I know it
+- **AutoCAD R14** - Because I know it and it works
 - **Python** - For calculations and analysis
 - **Claude AI** - For mathematical analysis, documentation, and collaboration
 - **40 years of experience** - I started at my dad's workbench.
