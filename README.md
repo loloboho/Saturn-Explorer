@@ -163,4 +163,4 @@ Open an issue on this repository or start a discussion!
 
 ---
 
-**Saturn Explorer Rev. 1.2** - November 2025
+**Saturn Explorer 🚀 Rev. 1.2** - November 2025
