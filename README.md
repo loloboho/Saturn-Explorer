@@ -14,7 +14,7 @@ This design represents an honest attempt at realistic spacecraft engineering for
 
 This is my first application of AI. It has been a collaboration of AI celestial mechanics, delta-V, and CG calculations with my design in conceptual 3-D space using AutoCAD traditional three-view drafting.
 
-I am responsible for the systems concepts; AI assisted with calculations and documentation. This AI was invaluable in its role, albeit being quite verbose. It is a very productive engineering tool; I see the implications for the future of AI.
+I am responsible for the systems concepts; AI assisted with calculations and documentation. This AI was invaluable in its role, albeit being quite verbose.
 
 ---
 
