@@ -28,7 +28,7 @@ PROJECT BACKGROUND
 ================================================================================
 
 Designer Profile:
-• Technical designer with 60+ years hands-on experience
+• Technical designer with 40+ years hands-on experience
 • Boeing 737-777 avionics systems background
 • Solar thermal systems, HVAC, machining, plumbing, hydronic systems
 • 10 years operating RV aerobic digester systems
@@ -109,7 +109,7 @@ THE CRITICAL FLAW DISCOVERED
 ================================================================================
 
 After completing all design work and documentation, a radiation safety analysis 
-was performed for the first time. The results were catastrophic.
+was performed for the first time. The results were catastrophic. This was discovered by Gemini AI during a verification chat - albiet a little late.
 
 Habitat Sphere Shielding:
 • Material: Lightweight construction (mass-optimized)
@@ -161,7 +161,7 @@ Root Cause Analysis:
    • Human must explicitly specify all safety constraints upfront
 
 4. Designer's Background Limitation
-   • 60 years hands-on experience with mechanical systems
+   • 40 years hands-on experience with mechanical systems
    • Strong practical knowledge of what breaks and how to fix it
    • Limited exposure to space radiation environments
    • Never designed systems requiring deep space radiation analysis
@@ -526,7 +526,7 @@ become.
 
 Personal Reflection:
 
-After 60+ years of hands-on engineering work, this project taught me that AI 
+After 40+ years of hands-on engineering work, this project taught me that AI 
 is transformative but not magic. It's like having an exceptionally smart, 
 incredibly fast junior engineer who knows everything but lacks judgment. The 
 senior engineer (human) must still:
@@ -556,6 +556,9 @@ documentation. You were an outstanding engineering assistant, even though you
 didn't stop me from making a critical mistake. That wasn't your job - it was 
 mine.
 
+Gemini AI (Google):
+For verification. Gemini caught the radiation error.
+
 The Engineering Community:
 For establishing radiation safety standards that protected this crew, even 
 though they're fictional. The 600 mSv limit exists for good reason.
@@ -579,8 +582,6 @@ if the crew dies of radiation poisoning.
 AI helped me design a ship that would successfully reach Saturn and return to 
 Earth on schedule with fuel to spare. I just forgot to ensure the crew would 
 survive the journey.
-
-That's on me, not the AI.
 
 And that's the lesson.
 
