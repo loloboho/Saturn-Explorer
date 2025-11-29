@@ -1,4 +1,4 @@
-Note: This design fails acceptable radiation levels for crew for mission to Enceladus. RB 11/29/25
+Note: This design fails acceptable radiation levels for crew for mission to Enceladus. Read "SATURN_EXPLORER-LESSONS_LEARNED" RB 11/29/25
 
 # Saturn Explorer
 ## Fusion-Powered Deep Space Exploration Vessel
