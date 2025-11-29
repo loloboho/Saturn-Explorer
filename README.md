@@ -1,4 +1,4 @@
-Note: This design fails acceptable radiation levels for crew for mission to Enceladus. Read "SATURN_EXPLORER-LESSONS_LEARNED" Missons to Enceladus will be better met with un-crewed dromes. Nice try. RB 11/29/25
+Note: This design fails acceptable radiation levels for crew for mission to Enceladus. Read "SATURN_EXPLORER-LESSONS_LEARNED" Missons to Enceladus will be better met with un-crewed drones. Nice try. RB 11/29/25
 
 # Saturn Explorer
 ## Fusion-Powered Deep Space Exploration Vessel
